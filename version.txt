@@ -1,1 +1,2 @@
 MORT_VERSION [1202] {https://killkimno.blog.me/221999716845}
+MORT_DIC[1]
