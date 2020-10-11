@@ -1,3 +1,3 @@
 MORT_VERSION [1202] {https://killkimno.blog.me/221999716845}
-MORT_DIC_ENG [1] {https://killkimno.blog.me/221999716845}
+MORT_DIC_ENG [1] {http://killkimno.github.io/MORT_VERSION/version.txt}
 MORT_DIC_JPN [1] {https://killkimno.blog.me/221999716845}
