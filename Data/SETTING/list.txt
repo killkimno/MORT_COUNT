@@ -1,4 +1,5 @@
 ﻿Titanfall2	Titanfall2	타이탄폴2
 fairy_bloom_freesia	Fairy Bloom Freesia	페어리 블룸 프리지아
+eryis_action	Eryi's Action	에리의 액션
 女騎士を目指して	女騎士を目指して	여자기사를 목표로
 wing_commander5	Wing Commander: Prophecy	윙커맨더 5 : 예언
