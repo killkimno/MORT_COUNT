@@ -1,2 +1,3 @@
 ﻿Titanfall2	Titanfall2	타이탄폴2
 女騎士を目指して	女騎士を目指して	여자기사를 목표로
+wing_commander5	Wing Commander: Prophecy	윙커맨더 5 : 예언
