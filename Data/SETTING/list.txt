@@ -4,6 +4,7 @@ eryis_action	Eryi's Action	에리의 액션
 exceed2	eXceed 2nd - Vampire REX	익시드2
 exceed3	eXceed 3rd - Jade Penetrate Black Package	익시드3
 ether	ETHER VAPOR Remaster	에테르 베이퍼
+bad_hotel	BAD HOTEL	배드호텔
 the_cat_lady	The Cat Lady	더 캣 레이디
 steins_gate	STEINS;GATE	슈타인즈 게이트
 女騎士を目指して	女騎士を目指して	여자기사를 목표로
