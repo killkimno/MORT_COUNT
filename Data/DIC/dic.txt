@@ -1,4 +1,4 @@
-﻿/s
+/s
 havennt
 haven't
 
@@ -33075,7 +33075,17 @@ Pretty
 /s
 Ilways
 Always
+
+/s
+ 11m 
+ I'm
 
+/s
+wasnlt
+wasn't
 
+/s
+didnlt
+didn't
 
 
