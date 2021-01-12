@@ -8,6 +8,7 @@ bad_hotel	BAD HOTEL	배드호텔
 the_cat_lady	The Cat Lady	더 캣 레이디
 daikatana	Daikatana	다이카타나
 downfall	Downfall	다운폴
+astebreed	Astebreed	아스터브리드
 haven	Haven	헤이븐
 steins_gate	STEINS;GATE	슈타인즈 게이트
 女騎士を目指して	女騎士を目指して	여자기사를 목표로
