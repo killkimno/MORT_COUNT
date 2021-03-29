@@ -8,5 +8,5 @@
 배드 호텔 한글화
 인게임 대화만 번역 가능, OCR 영역을 대사창에 맞추면 됩니다.
 한글화 주소 : https://blog.naver.com/killkimno/221574108357]
-@DB [bf1.txt]
-@SETTING [bf1.conf]
+@DB [bf.txt]
+@SETTING [bf.conf]
