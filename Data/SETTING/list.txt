@@ -1,4 +1,5 @@
 ﻿Titanfall2	Titanfall2	타이탄폴2
+battlefield1	Battlefiled1	배틀필드1
 fairy_bloom_freesia	Fairy Bloom Freesia	꽃 피우는 요정 프리지아
 eryis_action	Eryi's Action	에리의 액션
 exceed2	eXceed 2nd - Vampire REX	익시드2
