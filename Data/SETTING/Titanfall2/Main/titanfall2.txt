@@ -1,7 +1,7 @@
 /s
 원문
 /t
-번역2
+번역 1
 /e
 
 /s
@@ -199,13 +199,13 @@ BT: 적 타이탄 강하 감지.
 /s
 BT: Incoming enemy Titanfall.
 /t
-BT: 적 타이탄 강하 접근 중.
+BT: 적 타이탄폴 다가오는 중.
 /e
 
 /s
 BT: Battery required.
 /t
-BT: 배터리 필요함.
+BT: 배터리 필요.
 /e
 
 /s
@@ -217,13 +217,13 @@ BT: 경고 - 배터리 필요.
 /s
 BT: Warning, Pilot, multiple Titans engaging.
 /t
-BT: 경고, 파일럿, 다수의 타이탄 교전 중.
+BT: 경고, 파일럿, 타이탄 다수 접근 중.
 /e
 
 /s
 BT: Warning, Pilot Cooper, multiple Titans engaging.
 /t
-BT: 경고, 파일럿 쿠퍼, 타이탄 다수와 교전 중.
+BT: 경고, 파일럿 쿠퍼, 타이탄 다수 접근 중.
 /e
 
 /s
@@ -481,7 +481,7 @@ Ion OS: Critical damage. Advise cover.
 /s
 Ion OS: Critical damage. Take evasive action.
 /t
-이온 OS: 심각한 손상. 회피 기동을 하라.
+이온 OS: 심각한 손상. 회피 기동을 해라.
 /e
 
 /s
@@ -499,7 +499,7 @@ Ion OS: Critical damage. Seek cover.
 /s
 Ion OS: Warning: Critical damage sustained. Advise use of Vortex Shield.
 /t
-이온 OS: 경고: 심각한 피해가 계속되고 있음. 볼텍스 실드 사용을 권장한다.
+이온 OS: 경고: 심각한 피해가 계속되고 있음. 볼텍스 쉴드 사용을 권함.
 /e
 
 /s
@@ -1201,7 +1201,7 @@ Legion OS: Warning: Taking fire from multiple Titans. Request Pilot intervention
 /s
 Legion OS: Warning: Engaging multiple Titans. Predator Cannon may become tactically overextended.
 /t
-리전 OS: 타이탄 다수 접근중. 프레데터 캐논 작동이 전술적으로 과열될 수 있습니다.
+리전 OS: 경고: 다수의 타이탄 접근 중. 프레데터 캐논의 작동 시간을 전술적으로 늘릴 수 있다.
 /e
 
 /s
@@ -2353,7 +2353,7 @@ Northstar OS: Enemy Pilot destroyed.
 /s
 Northstar OS: Hostile Pilot KIA.
 /t
-노스스타 OS: 적대 파일럿 작전중 사망.
+노스스타 OS: 적대 파일럿 KIA.
 /e
 
 /s
@@ -3283,7 +3283,7 @@ Ronin OS: Welcome back, Pilot.
 /s
 Ronin OS: The Ronin sword transferred to Pilot.
 /t
-로닌 OS: Ronin의 검을 파일럿에게 넘깁니다.
+로닌 OS: Ronin의 검을 파일럿에게로.
 /e
 
 /s
@@ -3721,7 +3721,7 @@ Scorch OS: Warning: I am taking fire from multiple Titans.
 /s
 Scorch OS: Warning: Engaging multiple Titans. Thermite Launcher may be tactically overextended.
 /t
-스코치 OS: 다수의 타이탄과 교전을 시작 중. 테르밋런처가 전술을 확장시킬것입니다.    / Scorch OS: 다수의 타이탄과 교전중. 테르밋 런쳐가 과열 될 수 있습니다.
+스코치 OS: 다수의 타이탄과 교전을 시작 중. 화염유탄 발사기의 작동 시간을 전술적으로 늘릴 수 있다. 
 /e
 
 /s
@@ -5143,7 +5143,7 @@ Tone OS: You are engaging multiple Titans. Attempting painting targets.
 /s
 Tone OS: Multiple Titans engaging. Attempt lock-on of multiple targets.
 /t
-톤 OS: 다수의 타이탄과 교전 중. 다중 표적에 락온을 시도함.
+톤 OS: 타이탄 다수가 공격 시작 중. 다중 표적의 록온을 시도해라.
 /e
 
 /s
@@ -5167,7 +5167,7 @@ Tone OS: Outnumbered two to one. Utilize Particle Wall for defense.
 /s
 Tone OS: Outnumbered two to one. Advise seeking multiple locks with 40mm.
 /t
-톤 OS: 2 대 1 수적 열세. 40mm로 다수를 락온 권고.
+톤 OS: 2 대 1 수적 열세. 40mm로 다수를 록온하길 권고.
 /e
 
 /s
@@ -5335,13 +5335,13 @@ Monarch OS: Friendly Pilot on board.
 /s
 Monarch OS: Friendly Pilot has detached.
 /t
-모나크 OS: 아군 파일럿이 하차했다.
+모나크 OS: 아군 파일럿이 떨어졌다.
 /e
 
 /s
 Monarch OS: Friendly Pilot is clear.
 /t
-모나크 OS: 아군 파일럿이 떨어져 나갔다.
+모나크 OS: 아군 파일럿이 떨어져 있다.
 /e
 
 /s
@@ -7531,7 +7531,7 @@ IMC 타이탄: 뜨끈하게 지지라고, 저항군 형씨.
 /s
 IMC Titan: Now we fight fire with fire.
 /t
-IMC 타이탄: 이제 맞불로 한 번 지펴보자고.
+IMC 타이탄: 이제 맞불로 한번 지펴보자고.
 /e
 
 /s
@@ -7741,7 +7741,7 @@ IMC 타이탄: 더 무르는 건 없다, 무법자 자식아. 지금부터 내�
 /s
 IMC Titan: First time using that weapon, Pilot? Heh.
 /t
-IMC 타이탄: 하! 그 무기를 처음 써보나, 파일러?
+IMC 타이탄: 하! 그 무기를 처음 써보나, 파일럿?
 /e
 
 /s
@@ -13053,7 +13053,7 @@ Blisk: (radio) You scuttle that place if you have to, eh? Blisk out.
 /s
 Cooper: With my luck, this place is going to turn itself inside out.
 /t
-쿠퍼: 내 운이라면, 이 곳은 완전 겉과 속이 다른 곳이 될거야.
+쿠퍼: 내 운이라면, 이곳은 완전 겉과 속이 다른 곳이 될거야.
 /e
 
 /s
@@ -13089,7 +13089,7 @@ Cooper: What the hell are they building here, BT?
 /s
 BT: Unknown, but I doubt the IMC are mass producing homes. They usually destroy them.
 /t
-BT: 알 수 없음. IMC가 주택을 대량 생산하는 게 이상하다. 저들의 목적은 보통 파괴다
+BT: 알 수 없음. IMC가 주택을 대량 생산하는 게 이상하다. 저들의 목적은 보통 파괴다.
 /e
 
 /s
@@ -13371,7 +13371,7 @@ General Marder Log: ...where we have discovered a gift.
 /s
 General Marder Log: A machine that will do more than change the tide.
 /t
-마더 장군 기록: 전황을 뒤집을 수 있는 기계를
+마더 장군 기록: 전황을 뒤집을 수 있는 기계를.
 /e
 
 /s
@@ -13419,7 +13419,7 @@ General Marder Log: And most importantly, we have learned enough to bring it to 
 /s
 General Marder Log: As we use this "Fold Weapon"...
 /t
-마더 장군 기록: 우리가 사용하기로 한 이 "폴드 웨폰(Fold weapon)"...
+마더 장군 기록: 우리가 이 "폴드 웨폰(Fold weapon)"을 사용하는 한...
 /e
 
 /s
@@ -13515,7 +13515,7 @@ General Marder Log: ...every atom...
 /s
 General Marder Log: ...and every living thing we target.
 /t
-마더 장군 기록: ...그리고 우리가 목표로 한 살아있는 모든 것들을.
+마더 장군 기록: ...그리고 우리가 목표로 한 살아있는 모든 것들.
 /e
 
 /s
@@ -13977,7 +13977,7 @@ Cooper: Don't worry BT, I'm not going anywhere.
 /s
 BT: Understood, but I do recommend you move. IMC Salvage teams are not far away.
 /t
-BT: 이해했다, 하지만 이동하는 걸 추천한다. IMC 구조팀이 가까이에 있다.
+BT: 이해했다, 하지만 이동하는 걸 추천한다. IMC 회수팀이 가까이에 있다.
 /e
 
 /s
@@ -14927,7 +14927,8 @@ Slone: I'll do this one for free.
 /s
 Slone: Who said anything about salvage?
 /t
-슬론: 누가 폐품 회수한다고 했어?
+슬론: 누가 폐품 얘기라도 했었나?
+
 /e
 
 /s
@@ -14999,7 +15000,7 @@ Slone: You fight like a blimmin’ grunt. Then again..you are just a grunt.
 /s
 Slone: Use that core all you want - it's not going to keep you alive.
 /t
-슬론: 코어? 원하는대로 써봐. 그게 네 목숨을 구하진  못하겠지만.
+슬론: 코어? 원하는대로 써봐. 그게 네 목숨을 구하진  못 하겠지만.
 /e
 
 /s
@@ -15293,7 +15294,8 @@ Viper: Don't fall off the side.
 /s
 Viper: I'll give you one chance to step off. It'll be cleaner.
 /t
-바이퍼: 한 발짝 물러설 기회를 주지. 더 깨끗해질 거야.
+바이퍼: 한 발짝 물러설 기회를 주지. 더 깔끔하게 날려버릴테니.
+
 /e
 
 /s
@@ -15431,7 +15433,7 @@ Viper: You're just too weak for the skies.
 /s
 Viper: This ain't your ride.
 /t
-바이퍼: 이건 네 탈 것이 아니야.
+바이퍼: 여긴 니 판이 아니야.
 /e
 
 /s
@@ -16170,7 +16172,7 @@ Anderson Log: Anderson's log three-four-two: The Fold Weapon's power source is c
 /s
 SGT Babb: (radio) This is Raccoon Three, 9th Militia Fleet. We're held up in the Reclamation Facility.
 /t
-배브 병장: (무전) 여기는 저항군 제9함대의 라쿤 3이다. 매립시설에서 꼼짝 못 하고 있다.
+배브 병장: (무전) 여기는 저항군 제9함대의 라쿤 3이다. 매립시설에서 꼼짝 못하고 있다.
 /e
 
 /s
@@ -19046,7 +19048,7 @@ MIL Grunt: (radio) No...don't!
 /s
 BT: The ability to decrypt enemy communications has a strong history in warfare. This will work to our advantage.
 /t
-BT: 적의 통신을 감청하는 전략은 역사적으로 전쟁에서 강력하다. 우리에게 유리하게 쓰일 것이다.
+BT: 적의 통신을 감청하는 전략은 전쟁에서 깊은 역사를 가지고 있다. 우리에게 유리하게 쓰일 것이다.
 /e
 
 /s
@@ -23282,7 +23284,7 @@ SGT McCord: Okay, all systems are functional!
 /s
 CPT Cole: Grenier! Fire it up!
 /t
-콜 대위: 그리니어! 쏘아 올리자!
+콜 대위: 그레니어! 쏘아 올리자!
 /e
 
 /s
@@ -24815,7 +24817,7 @@ Cooper: Glad to have you back in one piece.
 /s
 BT: Incorrect, I am constructed from a multitude of machined parts.
 /t
-BT: 한 몸은 부정확한 표현임. 나는 다수의 기계 부품으로 구성되어있다.
+BT: 부정확하다. 나는 무수한 가공 부품으로 구성되어있다.
 /e
 
 /s
@@ -24833,7 +24835,8 @@ Cooper: Glad to have you back in one piece, BT.
 /s
 BT: Over twenty-five thousand, actually. BT-7274 online and ready for combat.
 /t
-BT: 정확히 2500초가 경과했다. BT-7274 배치 및 전투 준비 완료.
+BT: 정확히 25000개 이상의 부품으로 이루어진 몸이다. BT-7274 배치 및 전투 준비 완료.
+
 /e
 
 /s
@@ -25187,7 +25190,8 @@ Blisk: I don't care how broken you are!
 /s
 Blisk: I know deep down, some things...some things still work in there.
 /t
-블리스크: 이 안에, 네놈 내부 기능들이... 잘 작동하는 거 알고 있어.
+블리스크: 네놈 안쪽에 아직... 아직 작동하는 그게 있다는걸 알고있어.
+
 /e
 
 /s
