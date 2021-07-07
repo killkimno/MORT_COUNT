@@ -7,5 +7,5 @@
 
 //경고 - 모트 버전은 가장 아래에 있어야 함.
 @MORT_MINOR_VERSION [NONE]
-@MORT_VERSION [1221] {https://blog.naver.com/killkimno/222234355345}
+@MORT_VERSION [1222] {https://blog.naver.com/killkimno/222234355345}
 
