@@ -1,9 +1,9 @@
 @MORT_DIC_ENG [20201211] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dic.txt}
 @MORT_DIC_JPN [20201114] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dicJpn.txt}
 
-@DEV_VERSION [1233] {https://blog.naver.com/killkimno/222422095442}
-@DEV_MINOR_VERSION [1230-1231] {https://github.com/killkimno/MORT_VERSION/releases/download/dev/MORT.exe}
-@MORT_DEV_FINISHED_VERSION  [1233] 
+@DEV_VERSION [1234] {https://blog.naver.com/killkimno/222422095442}
+@DEV_MINOR_VERSION [1233-1234] {https://github.com/killkimno/MORT_VERSION/releases/download/dev/MORT.exe}
+@MORT_DEV_FINISHED_VERSION  [1235] 
 
 
 //경고 - 모트 버전은 가장 아래에 있어야 함.
