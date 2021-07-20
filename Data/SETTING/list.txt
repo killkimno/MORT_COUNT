@@ -11,6 +11,7 @@ daikatana	Daikatana	다이카타나
 red_faction_armageddon	Red faction : Armageddon	레드팩션 : 아마겟돈
 downfall	Downfall	다운폴
 astebreed	Astebreed	아스터브리드
+fate_grand_order	Fate/Grand Order	페이트/그랜드 오더
 adventure_of_nayu	The adventure of NAYU	나유의 모험
 the_medium	The Medium	더 미디엄
 haven	Haven	헤이븐
