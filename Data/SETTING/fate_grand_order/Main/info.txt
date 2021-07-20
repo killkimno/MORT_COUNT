@@ -5,7 +5,7 @@
 
 @INFO
 [번역방식 : 기계번역
-OCR : Tesseract OCR - 일본어
+OCR : Win OCR - 일본어
 OCR 영역을 대화창에 맞추면 됩니다
 영역 1 - 캐릭터 이름
 영역 2 - 캐릭터 대사 첫 번째 줄
