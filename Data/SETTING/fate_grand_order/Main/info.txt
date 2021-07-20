@@ -1,6 +1,8 @@
 ﻿@ID [몽키해드]
 @TITLE [Fate/Grand Order]
 @KOR_TITLE [페이트/그랜드 오더]
+@STORE [https://www.fate-go.jp/]
+
 @INFO
 [번역방식 : 기계번역
 OCR : Tesseract OCR - 일본어
