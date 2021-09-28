@@ -1,5 +1,5 @@
 @MORT_DIC_ENG [20201211] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dic.txt}
-@MORT_DIC_JPN [20210814] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dicJpn.txt}
+@MORT_DIC_JPN [20210928] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dicJpn.txt}
 
 @DEV_VERSION [1234] {https://blog.naver.com/killkimno/222422095442}
 @DEV_MINOR_VERSION [1233-1234] {https://github.com/killkimno/MORT_VERSION/releases/download/dev/MORT.exe}
