@@ -15,4 +15,3 @@
 //경고 - 모트 버전은 가장 아래에 있어야 함.
 @MORT_MINOR_VERSION [1236-1237] {https://github.com/killkimno/MORT_VERSION/releases/download/release/MORT.exe}
 @MORT_VERSION [1237] {https://blog.naver.com/killkimno/222437338370}
-
