@@ -23,3 +23,4 @@ subverse	Subverse	섭버스
 lagoon2	Lagoon Lounge2	라군 라운지2
 guildwars2	Guild Wars2	길드워2
 psychonauts2	Psychonauts2	사이코너츠2
+あんさんぶるスターズ	あんさんぶるスターズ!	앙상블 스타즈!
