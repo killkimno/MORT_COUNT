@@ -18,6 +18,7 @@ the_medium	The Medium	더 미디엄
 haven	Haven	헤이븐
 steins_gate	STEINS;GATE	슈타인즈 게이트
 女騎士を目指して	女騎士を目指して	여자기사를 목표로
+ritual_summon	ニセモノ聖女の邪教討伐 / Ritual Summon	가짜 성녀의 사교 토벌	
 wing_commander5	Wing Commander: Prophecy	윙커맨더 5 : 예언
 subverse	Subverse	섭버스
 lagoon2	Lagoon Lounge2	라군 라운지2
