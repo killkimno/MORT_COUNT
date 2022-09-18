@@ -26,4 +26,5 @@ lagoon2	Lagoon Lounge2	라군 라운지2
 guildwars2	Guild Wars2	길드워2
 psychonauts2	Psychonauts2	사이코너츠2
 coq	Caves of Qud	케이브 오브 쿼드
+the_looker	The Looker	더 루커
 あんさんぶるスターズ	あんさんぶるスターズ!	앙상블 스타즈!
