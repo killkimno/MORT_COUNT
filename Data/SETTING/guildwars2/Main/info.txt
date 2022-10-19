@@ -3,9 +3,9 @@
 @KOR_TITLE [길드 워2]
 @LINK [https://github.com/deejaykoo/gw2krtranslation]
 @STORE [https://store.steampowered.com/app/1284210/Guild_Wars_2/]
-@DOWNLOAD_LINK [https://github.com/deejaykoo/gw2krtranslation]
 @INFO
-[번역방식 : DB
-길드워2 한글 번역 DB 링크
-자세한 사용법은 링크나 '다운로드 사이트로 이동'을 눌러서 확인해 주세요]
+[번역방식 : DB 또는 기계 번역
+길드워2 한글 번역 DB 링크 - https://github.com/deejaykoo/gw2krtranslation
+길드워2 기계 번역 설정 - 하단 적용 버튼 클릭]
+@SETTING [gw2.conf]
 
