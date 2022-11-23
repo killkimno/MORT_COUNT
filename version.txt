@@ -14,7 +14,7 @@
 
 //32비트 버전
 @MORT_32BIT_MINOR_VERSION [1243-1245] {https://github.com/killkimno/MORT_VERSION/releases/download/release/MORT.exe}
-@MORT_32BIT_VERSION [1246] {https://blog.naver.com/killkimno/2227246469651}
+@MORT_32BIT_VERSION [1245] {https://blog.naver.com/killkimno/222724646965}
 
 //경고 - 모트 버전은 가장 아래에 있어야 함.
 @MORT_MINOR_VERSION [1243-1245] {https://github.com/killkimno/MORT_VERSION/releases/download/release/MORT.exe}
