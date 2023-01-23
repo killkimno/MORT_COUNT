@@ -16,6 +16,7 @@ fate_grand_order	Fate/Grand Order	페이트/그랜드 오더
 adventure_of_nayu	The adventure of NAYU	나유의 모험
 the_medium	The Medium	더 미디엄
 haven	Haven	헤이븐
+crysis3_remastered	Crysis 3 Remastered	크라이시스 3 리마스터
 shadow_warrior2	Shadow Warrior2	쉐도우 워리어2
 steins_gate	STEINS;GATE	슈타인즈 게이트
 女騎士を目指して	女騎士を目指して	여자기사를 목표로
