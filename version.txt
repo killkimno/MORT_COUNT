@@ -3,7 +3,7 @@
 
 @DEV_VERSION [1251] {https://blog.naver.com/killkimno/223025857961}
 @DEV_MINOR_VERSION [1250-1251] {https://github.com/killkimno/MORT_VERSION/releases/download/dev/MORT.exe}
-@MORT_DEV_FINISHED_VERSION  [1245] 
+@MORT_DEV_FINISHED_VERSION  [1251] 
 
 @MORT_64_BIT_MESSSAGE ["새로운 버전을 확인했습니다.
 업데이트 하시겠습니까?
@@ -18,4 +18,4 @@ https://blog.naver.com/killkimno/222936631523 버전을 받아주세요]
 
 //경고 - 모트 버전은 가장 아래에 있어야 함.
 @MORT_MINOR_VERSION [1243-1245] {https://github.com/killkimno/MORT_VERSION/releases/download/release/MORT.exe}
-@MORT_VERSION [1245] {https://blog.naver.com/killkimno/222724646965}
+@MORT_VERSION [1250] {https://blog.naver.com/killkimno/223051568559}
