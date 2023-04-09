@@ -11,4 +11,6 @@
 한글화 주소 : https://blog.naver.com/killkimno/223055510464]
 @DB [Amane.txt]
 @SETTING [Amane.conf]
+@DIC [AmaneDic.txt]
+
 
