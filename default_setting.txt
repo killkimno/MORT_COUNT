@@ -4,5 +4,5 @@
 
 @DEEPL_URL {https://www.deepl.com/translator#en/ko/tank%20divsion}
 @DEEPL_FORMAT "https://www.deepl.com/translator#{0}/{1}/{2}"
-@DEEPL_TARGET {document.getElementsByClassName("lmt__textarea lmt__textarea_dummydiv")[1].innerHTML}
+@DEEPL_TARGET {document.getElementsByClassName("lmt__translations_as_text__text_btn")[0].innerHTML}
 
