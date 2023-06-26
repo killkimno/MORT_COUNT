@@ -2,7 +2,7 @@
 @SPLITE_GOOGLE_TOEKN {////////}
 @ENABLE_ADVENCED_TOKEN {True}
 
-@DEEPL_URL {https://www.deepl.com/translator#en/ko/tank%20divsion}
+@DEEPL_URL {https://www.deepl.com/translator#en/ko/}
 @DEEPL_FORMAT "https://www.deepl.com/translator#{0}/{1}/{2}"
 @DEEPL_TARGET {document.getElementsByClassName("lmt__translations_as_text__text_btn")[0].innerHTML}
 
