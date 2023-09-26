@@ -1,4 +1,4 @@
-@MORT_DIC_ENG [20201211] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dic.txt}
+@MORT_DIC_ENG [20230926] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dic.txt}
 @MORT_DIC_JPN [20221207] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dicJpn.txt}
 
 @DEV_VERSION [1251] {https://blog.naver.com/killkimno/223025857961}
