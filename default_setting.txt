@@ -5,5 +5,5 @@
 @DEEPL_URL {https://www.deepl.com/translator#en/ko/}
 @DEEPL_FORMAT "https://www.deepl.com/translator#{0}/{1}/{2}"
 @DEEPL_TARGET {document.getElementsByClassName("--l --r sentence_highlight")[0].innerHTML}
-@DEEPL_NEW_TARGET {document.getElementsByClassName("--l --r sentence_highlight")[{0}].innerHTML}
+@DEEPL_NEW_TARGET <document.getElementsByClassName("--l --r sentence_highlight")[{0}].innerHTML>
 
