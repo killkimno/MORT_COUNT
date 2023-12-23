@@ -1,8 +1,8 @@
 @MORT_DIC_ENG [20230926] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dic.txt}
 @MORT_DIC_JPN [20221207] {http://killkimno.github.io/MORT_VERSION/Data/DIC/dicJpn.txt}
 
-@DEV_VERSION [1270] {https://blog.naver.com/killkimno/223288405115}
-@DEV_MINOR_VERSION [1250-1251] {https://github.com/killkimno/MORT_VERSION/releases/download/dev/MORT.exe}
+@DEV_VERSION [1271] {https://blog.naver.com/killkimno/223288405115}
+@DEV_MINOR_VERSION [1270-1271] {https://github.com/killkimno/MORT_VERSION/releases/download/dev/MORT.exe}
 @MORT_DEV_FINISHED_VERSION  [1251] 
 
 @MORT_64_BIT_MESSSAGE ["새로운 버전을 확인했습니다.
